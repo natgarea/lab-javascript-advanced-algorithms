@@ -40,6 +40,23 @@ li {
     background-color: #ededed;
 }
 
+.filled {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color: #4dadea;
+}
+
+.flow {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #a77471;
+    background-color: #f4e2e2;
+    border: 1px solid #a77471;
+}
+
 .btn {
     text-transform: uppercase;
 }
